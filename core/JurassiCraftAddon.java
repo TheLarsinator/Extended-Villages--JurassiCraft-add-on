@@ -17,7 +17,7 @@ import cpw.mods.fml.common.registry.VillagerRegistry;
 
 
 
-@Mod (modid = "extviljura", name = "Extended_Villages_JurassiCraft_addon", version = "1.7.10-0.1", dependencies = "required-after:fossilhunting;required-after:extvil;required-after:bygoneage;required-after:jurassicraft")
+@Mod (modid = "extviljura", name = "Extended_Villages_JurassiCraft_addon", version = "1.7.10-0.1", dependencies = "required-after:fossilhunting;required-after:extvil;required-after:bygoneage;required-after:jurassicraft;required-after:llib")
 
 
 public class JurassiCraftAddon
