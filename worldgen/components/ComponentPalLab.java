@@ -142,7 +142,7 @@ public class ComponentPalLab extends StructureVillagePieces.Village{
     		Path = Blocks.gravel;
     	}
     	
-        spawnVillagers(world, sbb, 3, 1, 4, 2);
+        spawnVillagers(world, sbb, 4, 1, 2, 2);
 
         this.fillWithBlocks(world, sbb, 1, 1, 1, 7, 4, 4, Blocks.air, Blocks.air, false);
         this.fillWithBlocks(world, sbb, 2, 1, 6, 8, 4, 10, Blocks.air, Blocks.air, false);
